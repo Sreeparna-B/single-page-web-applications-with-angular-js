@@ -1,8 +1,13 @@
 # single-page-web-applications-with-angular-js
+
 #Single Page Web Applications with AngularJS  
+
 Solutions to module assignments for the "Single Page Web Applications with AngularJS" 
+
 Coursera MOOC taught by Johns Hopkins University.  
+
 ##Course Outline  
+
 Module 1 | Introduction to AngularJS 
 Module 2 | Filters, Digest Cycle, Controller Inheritance, and Custom Services 
 Module 3 | Promises, Ajax, and Custom Directives 
