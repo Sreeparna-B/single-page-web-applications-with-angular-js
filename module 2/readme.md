@@ -15,4 +15,4 @@ The "Already Bought" list should initially be empty and display a message "Nothi
 
 Once the user "buys" every item on the "To Buy" list, i.e., clicks on the "Bought" button for every item in the "To Buy" list, instead of the empty "To Buy" list, display the message "Everything is bought!"
 
-[See my solution web page](https://sreeparna1110.github.io/single-page-web-applications-with-angular-js/module%202/)
+[Direct solution for module 2](https://sreeparna1110.github.io/single-page-web-applications-with-angular-js/module%202/)
